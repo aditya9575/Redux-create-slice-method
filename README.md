@@ -6,6 +6,7 @@ The createSlice method is a function provided by Redux Toolkit, a library that s
 
 It is a function that accepts an initial state, an object of reducer functions, and a "slice name", and automatically generates action creators and action types that correspond to the reducers and state.
 
+[REDUCER --> is a function that is used to update the state of a Slice]
 
 ==================================================================================================================================================================
 HERE IS A EXAMPLE SYNTAX OF USING createSlice method :- 
